@@ -25,6 +25,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -42,6 +43,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |
