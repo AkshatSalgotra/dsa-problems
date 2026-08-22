@@ -61,6 +61,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
