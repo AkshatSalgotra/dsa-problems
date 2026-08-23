@@ -42,6 +42,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Bit Manipulation
 |  |
@@ -61,6 +62,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -72,6 +74,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +83,8 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
