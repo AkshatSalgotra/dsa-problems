@@ -15,6 +15,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +63,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 ## Math
 |  |
 | ------- |
