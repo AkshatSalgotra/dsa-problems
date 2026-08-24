@@ -11,6 +11,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -25,6 +26,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -56,6 +58,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Math
@@ -78,6 +81,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
