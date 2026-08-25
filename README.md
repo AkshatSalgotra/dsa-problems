@@ -35,12 +35,14 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
