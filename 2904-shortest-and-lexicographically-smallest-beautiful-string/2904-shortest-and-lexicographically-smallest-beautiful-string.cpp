@@ -9,7 +9,7 @@ public:
             if (s[r] == '1')
                 oneCnt++;
 
-            while (oneCnt == k){
+            if (oneCnt == k){
                 while(s[l] == '0') l++;
 
                 string temp = s.substr(l, r-l+1);
