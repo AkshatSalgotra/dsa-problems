@@ -6,6 +6,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -109,4 +110,24 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
