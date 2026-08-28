@@ -34,6 +34,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0130-surrounded-regions](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
@@ -140,4 +142,8 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
