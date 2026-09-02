@@ -48,6 +48,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -59,6 +60,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
@@ -100,6 +102,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
@@ -132,6 +135,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Tree
 |  |
 | ------- |
