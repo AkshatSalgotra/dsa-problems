@@ -55,6 +55,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,4 +181,5 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
