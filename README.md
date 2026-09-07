@@ -111,6 +111,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -121,6 +122,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
