@@ -61,6 +61,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -107,6 +108,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
@@ -115,6 +117,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -141,6 +144,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Tree
@@ -185,4 +189,12 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
