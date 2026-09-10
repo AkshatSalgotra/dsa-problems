@@ -39,6 +39,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -85,10 +86,12 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
