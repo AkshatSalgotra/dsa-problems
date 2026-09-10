@@ -11,6 +11,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
