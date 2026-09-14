@@ -102,6 +102,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -207,4 +208,8 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
