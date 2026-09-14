@@ -212,4 +212,8 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
