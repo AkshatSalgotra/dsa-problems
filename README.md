@@ -216,4 +216,5 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1934-confirmation-rate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
