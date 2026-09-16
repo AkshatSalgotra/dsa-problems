@@ -121,6 +121,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -139,6 +140,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Game Theory
 |  |
@@ -218,4 +220,8 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1934-confirmation-rate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
