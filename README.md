@@ -51,6 +51,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2670-find-the-distinct-difference-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -68,6 +69,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2670-find-the-distinct-difference-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
