@@ -107,6 +107,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -220,6 +221,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Database
 |  |
 | ------- |
