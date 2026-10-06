@@ -89,6 +89,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -148,6 +149,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -167,6 +169,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -257,6 +260,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Ordered Set
