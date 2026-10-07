@@ -21,6 +21,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -146,6 +147,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0020-valid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -221,6 +223,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
