@@ -85,6 +85,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | ------- |
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -155,6 +156,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0127-word-ladder](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -190,6 +192,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
