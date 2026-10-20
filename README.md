@@ -67,6 +67,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2670-find-the-distinct-difference-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -150,6 +151,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
@@ -216,6 +218,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
