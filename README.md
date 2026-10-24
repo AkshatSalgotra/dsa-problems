@@ -139,6 +139,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -177,6 +178,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2409-count-days-spent-together](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
