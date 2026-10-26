@@ -17,6 +17,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0802-find-eventual-safe-states](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -78,6 +81,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -132,6 +136,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
