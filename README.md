@@ -62,6 +62,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -143,6 +144,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -161,6 +163,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0016-3sum-closest](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
