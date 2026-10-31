@@ -83,6 +83,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -140,6 +141,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -197,6 +199,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0115-distinct-subsequences](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
