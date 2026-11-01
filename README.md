@@ -62,6 +62,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -146,6 +147,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
