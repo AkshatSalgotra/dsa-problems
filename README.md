@@ -85,6 +85,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -204,6 +205,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0542-01-matrix](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
