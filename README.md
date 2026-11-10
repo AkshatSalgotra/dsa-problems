@@ -16,6 +16,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0785-is-graph-bipartite](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -34,6 +35,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0802-find-eventual-safe-states](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -44,6 +46,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0547-number-of-provinces](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -69,6 +72,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -142,6 +146,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 | [0733-flood-fill](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -231,6 +236,7 @@ Repo created to practice and deep-dive into data structures and algorithms
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/AkshatSalgotra/Leetcode-solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Tree
